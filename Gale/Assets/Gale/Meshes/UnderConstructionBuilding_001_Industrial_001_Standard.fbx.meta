@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 0735bd6041ae16245b5159e81eda122b
+timeCreated: 1474167920
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beam1
+    100004: Beam2
+    100006: Beam3
+    100008: Beam_Short1
+    100010: Beam_Short1 1
+    100012: Beam_Short1 2
+    100014: Beam_Short1 3
+    100016: Beam_Short1 4
+    100018: Beam_Short2
+    100020: Beam_Short2 1
+    100022: Beam_Short2 2
+    100024: Beam_Short2 3
+    100026: Beam_Short2 4
+    100028: Beam_Short3
+    100030: Beam_Short3 1
+    100032: Beam_Short3 2
+    100034: Beam_Short3 3
+    100036: Beam_Short3 4
+    100038: Beam_Short4
+    100040: Beam_Short4 1
+    100042: Beam_Short4 2
+    100044: Beam_Short4 3
+    100046: Beam_Short4 4
+    100048: Beam_Short5
+    100050: Beam_Short5 1
+    100052: Beam_Short5 2
+    100054: Beam_Short5 3
+    100056: Beam_Short5 4
+    100058: Beam_Short6
+    100060: Beam_Short6 1
+    100062: Beam_Short6 2
+    100064: Beam_Short6 3
+    100066: Beam_Short6 4
+    100068: Dry_Wall_Whole
+    100070: Dry_Wall_Whole_1
+    100072: Dry_Wall_Whole_2
+    100074: Dry_Wall_Whole_3
+    100076: Dry_Wall_Whole_4
+    100078: Dry_Wall_Whole_5
+    100080: Long_Beams
+    100082: Pipe
+    100084: Pipe1
+    100086: Pipe10
+    100088: Pipe11
+    100090: Pipe12
+    100092: Pipe13
+    100094: Pipe14
+    100096: Pipe15
+    100098: Pipe2
+    100100: Pipe3
+    100102: Pipe4
+    100104: Pipe5
+    100106: Pipe6
+    100108: Pipe7
+    100110: Pipe8
+    100112: Pipe9
+    100114: Pipes
+    100116: Short_Beams
+    100118: Short_Beams1
+    100120: Short_Beams2
+    100122: Short_Beams3
+    100124: Short_Beams4
+    100126: Tall_Beams1
+    100128: Tall_Beams1_TallBeam_1
+    100130: Tall_Beams2
+    100132: Tall_Beams3
+    100134: Tall_Beams4
+    100136: Tall_Beams5
+    100138: TallBeam_1
+    100140: TallBeam_1 1
+    100142: TallBeam_1 2
+    100144: TallBeam_1 3
+    100146: TallBeam_1 4
+    100148: TallBeam_2
+    100150: TallBeam_2 1
+    100152: TallBeam_2 2
+    100154: TallBeam_2 3
+    100156: TallBeam_2 4
+    100158: TallBeam_3
+    100160: TallBeam_3 1
+    100162: TallBeam_3 2
+    100164: TallBeam_3 3
+    100166: TallBeam_3 4
+    100168: TallBeam_4
+    100170: TallBeam_4 1
+    100172: TallBeam_4 2
+    100174: TallBeam_4 3
+    100176: TallBeam_4 4
+    100178: TallBeam_5
+    100180: TallBeam_5 1
+    100182: TallBeam_5 2
+    100184: TallBeam_5 3
+    100186: TallBeam_5 4
+    100188: TallBeam_6
+    100190: TallBeam_6 1
+    100192: TallBeam_6 2
+    100194: TallBeam_6 3
+    100196: TallBeam_6 4
+    100198: transform1
+    100200: transform10
+    100202: transform100
+    100204: transform101
+    100206: transform102
+    100208: transform103
+    100210: transform104
+    100212: transform105
+    100214: transform106
+    100216: transform107
+    100218: transform108
+    100220: transform109
+    100222: transform11
+    100224: transform110
+    100226: transform111
+    100228: transform112
+    100230: transform12
+    100232: transform13
+    100234: transform14
+    100236: transform15
+    100238: transform16
+    100240: transform17
+    100242: transform18
+    100244: transform19
+    100246: transform2
+    100248: transform20
+    100250: transform21
+    100252: transform22
+    100254: transform23
+    100256: transform24
+    100258: transform25
+    100260: transform26
+    100262: transform27
+    100264: transform28
+    100266: transform29
+    100268: transform3
+    100270: transform30
+    100272: transform31
+    100274: transform32
+    100276: transform33
+    100278: transform34
+    100280: transform35
+    100282: transform36
+    100284: transform37
+    100286: transform38
+    100288: transform39
+    100290: transform4
+    100292: transform40
+    100294: transform41
+    100296: transform42
+    100298: transform43
+    100300: transform44
+    100302: transform45
+    100304: transform46
+    100306: transform47
+    100308: transform48
+    100310: transform49
+    100312: transform5
+    100314: transform50
+    100316: transform51
+    100318: transform52
+    100320: transform53
+    100322: transform54
+    100324: transform55
+    100326: transform56
+    100328: transform57
+    100330: transform58
+    100332: transform59
+    100334: transform6
+    100336: transform60
+    100338: transform61
+    100340: transform62
+    100342: transform63
+    100344: transform64
+    100346: transform65
+    100348: transform66
+    100350: transform67
+    100352: transform68
+    100354: transform69
+    100356: transform7
+    100358: transform70
+    100360: transform71
+    100362: transform72
+    100364: transform73
+    100366: transform74
+    100368: transform75
+    100370: transform76
+    100372: transform77
+    100374: transform78
+    100376: transform79
+    100378: transform8
+    100380: transform80
+    100382: transform81
+    100384: transform82
+    100386: transform83
+    100388: transform84
+    100390: transform85
+    100392: transform86
+    100394: transform87
+    100396: transform88
+    100398: transform89
+    100400: transform9
+    100402: transform90
+    100404: transform91
+    100406: transform92
+    100408: transform93
+    100410: transform94
+    100412: transform95
+    100414: transform96
+    100416: transform97
+    100418: transform98
+    100420: transform99
+    100422: Wall1
+    100424: Wall1 1
+    100426: Wall1 2
+    100428: Wall1 3
+    100430: Wall2
+    100432: Wall2 1
+    100434: Wall2 2
+    100436: Wall2 3
+    100438: Wall3
+    100440: Wall3 1
+    100442: Wall3 2
+    100444: Wall3 3
+    100446: Wall4
+    100448: Wall4 1
+    100450: Wall4 2
+    100452: Wall4 3
+    100454: Wall5
+    100456: Wall6
+    100458: Wall7
+    100460: Wall8
+    100462: Walls1
+    100464: Walls2
+    100466: Walls3
+    100468: Walls4
+    100470: Whole_Flooring
+    100472: Whole_Flooring 1
+    100474: Whole_Flooring 2
+    100476: Whole_Flooring 3
+    100478: Whole_Flooring 4
+    100480: Whole_Flooring1
+    100482: Whole_Flooring1 1
+    100484: Whole_Flooring1 2
+    100486: Whole_Flooring1 3
+    100488: Whole_Flooring2
+    100490: Whole_Flooring3
+    100492: Whole_Flooring4
+    100494: UnderConstructionBuilding_001_Industrial_001_Standard
+    400000: //RootNode
+    400002: Beam1
+    400004: Beam2
+    400006: Beam3
+    400008: Beam_Short1
+    400010: Beam_Short1 1
+    400012: Beam_Short1 2
+    400014: Beam_Short1 3
+    400016: Beam_Short1 4
+    400018: Beam_Short2
+    400020: Beam_Short2 1
+    400022: Beam_Short2 2
+    400024: Beam_Short2 3
+    400026: Beam_Short2 4
+    400028: Beam_Short3
+    400030: Beam_Short3 1
+    400032: Beam_Short3 2
+    400034: Beam_Short3 3
+    400036: Beam_Short3 4
+    400038: Beam_Short4
+    400040: Beam_Short4 1
+    400042: Beam_Short4 2
+    400044: Beam_Short4 3
+    400046: Beam_Short4 4
+    400048: Beam_Short5
+    400050: Beam_Short5 1
+    400052: Beam_Short5 2
+    400054: Beam_Short5 3
+    400056: Beam_Short5 4
+    400058: Beam_Short6
+    400060: Beam_Short6 1
+    400062: Beam_Short6 2
+    400064: Beam_Short6 3
+    400066: Beam_Short6 4
+    400068: Dry_Wall_Whole
+    400070: Dry_Wall_Whole_1
+    400072: Dry_Wall_Whole_2
+    400074: Dry_Wall_Whole_3
+    400076: Dry_Wall_Whole_4
+    400078: Dry_Wall_Whole_5
+    400080: Long_Beams
+    400082: Pipe
+    400084: Pipe1
+    400086: Pipe10
+    400088: Pipe11
+    400090: Pipe12
+    400092: Pipe13
+    400094: Pipe14
+    400096: Pipe15
+    400098: Pipe2
+    400100: Pipe3
+    400102: Pipe4
+    400104: Pipe5
+    400106: Pipe6
+    400108: Pipe7
+    400110: Pipe8
+    400112: Pipe9
+    400114: Pipes
+    400116: Short_Beams
+    400118: Short_Beams1
+    400120: Short_Beams2
+    400122: Short_Beams3
+    400124: Short_Beams4
+    400126: Tall_Beams1
+    400128: Tall_Beams1_TallBeam_1
+    400130: Tall_Beams2
+    400132: Tall_Beams3
+    400134: Tall_Beams4
+    400136: Tall_Beams5
+    400138: TallBeam_1
+    400140: TallBeam_1 1
+    400142: TallBeam_1 2
+    400144: TallBeam_1 3
+    400146: TallBeam_1 4
+    400148: TallBeam_2
+    400150: TallBeam_2 1
+    400152: TallBeam_2 2
+    400154: TallBeam_2 3
+    400156: TallBeam_2 4
+    400158: TallBeam_3
+    400160: TallBeam_3 1
+    400162: TallBeam_3 2
+    400164: TallBeam_3 3
+    400166: TallBeam_3 4
+    400168: TallBeam_4
+    400170: TallBeam_4 1
+    400172: TallBeam_4 2
+    400174: TallBeam_4 3
+    400176: TallBeam_4 4
+    400178: TallBeam_5
+    400180: TallBeam_5 1
+    400182: TallBeam_5 2
+    400184: TallBeam_5 3
+    400186: TallBeam_5 4
+    400188: TallBeam_6
+    400190: TallBeam_6 1
+    400192: TallBeam_6 2
+    400194: TallBeam_6 3
+    400196: TallBeam_6 4
+    400198: transform1
+    400200: transform10
+    400202: transform100
+    400204: transform101
+    400206: transform102
+    400208: transform103
+    400210: transform104
+    400212: transform105
+    400214: transform106
+    400216: transform107
+    400218: transform108
+    400220: transform109
+    400222: transform11
+    400224: transform110
+    400226: transform111
+    400228: transform112
+    400230: transform12
+    400232: transform13
+    400234: transform14
+    400236: transform15
+    400238: transform16
+    400240: transform17
+    400242: transform18
+    400244: transform19
+    400246: transform2
+    400248: transform20
+    400250: transform21
+    400252: transform22
+    400254: transform23
+    400256: transform24
+    400258: transform25
+    400260: transform26
+    400262: transform27
+    400264: transform28
+    400266: transform29
+    400268: transform3
+    400270: transform30
+    400272: transform31
+    400274: transform32
+    400276: transform33
+    400278: transform34
+    400280: transform35
+    400282: transform36
+    400284: transform37
+    400286: transform38
+    400288: transform39
+    400290: transform4
+    400292: transform40
+    400294: transform41
+    400296: transform42
+    400298: transform43
+    400300: transform44
+    400302: transform45
+    400304: transform46
+    400306: transform47
+    400308: transform48
+    400310: transform49
+    400312: transform5
+    400314: transform50
+    400316: transform51
+    400318: transform52
+    400320: transform53
+    400322: transform54
+    400324: transform55
+    400326: transform56
+    400328: transform57
+    400330: transform58
+    400332: transform59
+    400334: transform6
+    400336: transform60
+    400338: transform61
+    400340: transform62
+    400342: transform63
+    400344: transform64
+    400346: transform65
+    400348: transform66
+    400350: transform67
+    400352: transform68
+    400354: transform69
+    400356: transform7
+    400358: transform70
+    400360: transform71
+    400362: transform72
+    400364: transform73
+    400366: transform74
+    400368: transform75
+    400370: transform76
+    400372: transform77
+    400374: transform78
+    400376: transform79
+    400378: transform8
+    400380: transform80
+    400382: transform81
+    400384: transform82
+    400386: transform83
+    400388: transform84
+    400390: transform85
+    400392: transform86
+    400394: transform87
+    400396: transform88
+    400398: transform89
+    400400: transform9
+    400402: transform90
+    400404: transform91
+    400406: transform92
+    400408: transform93
+    400410: transform94
+    400412: transform95
+    400414: transform96
+    400416: transform97
+    400418: transform98
+    400420: transform99
+    400422: Wall1
+    400424: Wall1 1
+    400426: Wall1 2
+    400428: Wall1 3
+    400430: Wall2
+    400432: Wall2 1
+    400434: Wall2 2
+    400436: Wall2 3
+    400438: Wall3
+    400440: Wall3 1
+    400442: Wall3 2
+    400444: Wall3 3
+    400446: Wall4
+    400448: Wall4 1
+    400450: Wall4 2
+    400452: Wall4 3
+    400454: Wall5
+    400456: Wall6
+    400458: Wall7
+    400460: Wall8
+    400462: Walls1
+    400464: Walls2
+    400466: Walls3
+    400468: Walls4
+    400470: Whole_Flooring
+    400472: Whole_Flooring 1
+    400474: Whole_Flooring 2
+    400476: Whole_Flooring 3
+    400478: Whole_Flooring 4
+    400480: Whole_Flooring1
+    400482: Whole_Flooring1 1
+    400484: Whole_Flooring1 2
+    400486: Whole_Flooring1 3
+    400488: Whole_Flooring2
+    400490: Whole_Flooring3
+    400492: Whole_Flooring4
+    400494: UnderConstructionBuilding_001_Industrial_001_Standard
+    2300000: //RootNode
+    2300002: Tall_Beams1_TallBeam_1
+    2300004: UnderConstructionBuilding_001_Industrial_001_Standard
+    3300000: //RootNode
+    3300002: Tall_Beams1_TallBeam_1
+    3300004: UnderConstructionBuilding_001_Industrial_001_Standard
+    4300000: UnitScaleCube
+    4300002: Tall_Beams1_TallBeam_1
+    4300004: UnderConstructionBuilding_001_Industrial_001_Standard
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
